@@ -20,9 +20,7 @@
 }
 
 
-*{
-  border: 1px solid blue;
-}
+
 html,
 body {
 	height: 100%;
@@ -85,7 +83,6 @@ hr{
 .container {
 	max-width: 800px;
 	width: 90%;
-	margin-bottom: 3rem;
   padding: 0 10px 0 10px;
 }
 
@@ -121,24 +118,24 @@ hr{
 		line-height: 80%;
 	}
 }
-#projects{
-  overflow-x: hidden;
-}
+
 #projects h1 {
 	padding-left: 2%;
 
 }
 
+#main{
+  margin-bottom: -5vh;
+}
 .screen {
 	position: relative;
-	margin: 0 auto 0% auto;
+	margin: 0 auto 2% auto;
 	padding: 5% 2%;
 	height: auto;
 	border-radius: 5px;
 	background-color: #d7f0d3;
-
 	border: 3px solid #5b0216;
-	width: 92vw;
+	width: 85vw;
 }
 .screen:nth-of-type(1){
 		transform: rotate(-3deg);
@@ -196,8 +193,15 @@ hr{
 }
 
 @media screen and (max-width: 400px) {
+  hr{
+    border-top: 1px solid #5b0216;
+    margin: 10% 0 20% 0;
+  }
+  .two{
+    padding: 0 35% 0 35%;
+  }
 	.screen {
-		margin: 0 auto 3% auto;
+		margin: 0 auto 0% auto;
 
 	}
 
@@ -249,7 +253,7 @@ video {
   align-items: center;
   justify-content: center;
   background-color: #cc3c5c;
-  padding: 0 10px 0 10px;
+
 }
 .video-wrapper::after{
   position: absolute;
