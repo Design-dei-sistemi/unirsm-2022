@@ -79,6 +79,9 @@ a:hover {
 	color: #FFF;
 }
 
+hr{
+  border-top: 3px solid #5b0216;
+}
 .container {
 	max-width: 800px;
 	width: 90%;
