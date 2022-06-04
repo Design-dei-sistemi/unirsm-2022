@@ -6,18 +6,18 @@
 Docente: Matteo Moretti con Giacomo Flaim e Davide Giorgetta.
  
 Studenti:
-Irene Bacherotti
-Chiara Boffa
-Alessia Maria Teresa Ciccone
-Matteo Cirillo
-Alessia Fallarino
-Lucrezia Ghinassi
-Andrea Ingrando
-Massimiliano Iob
-Barbara Merlino
-Sofia Montanari
-Stefania Papa
-Salvo Pitingaro
-Alessandro Ricciardo
-Arianna Terenzi
+Irene Bacherotti,
+Chiara Boffa,
+Alessia Maria Teresa Ciccone,
+Matteo Cirillo,
+Alessia Fallarino,
+Lucrezia Ghinassi,
+Andrea Ingrando,
+Massimiliano Iob,
+Barbara Merlino,
+Sofia Montanari,
+Stefania Papa,
+Salvo Pitingaro,
+Alessandro Ricciardo,
+Arianna Terenzi,
 Michele Tunzi.
