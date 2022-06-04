@@ -208,6 +208,7 @@ hr{
 	.screen h2 {
 		font-size: 2.7rem;
 		line-height: 80%;
+    padding-left: 10px;
 	}
 
 	.screen p {
