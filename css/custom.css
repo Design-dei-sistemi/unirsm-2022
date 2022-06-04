@@ -35,6 +35,12 @@ body {
 	letter-spacing: 0;
 	font-family: 'FamiljenGrotesk-Variable';
 	text-rendering: optimizeLegibility;
+	padding-top: 15vh;
+}
+@media screen and (max-width: 400px) {
+	body {
+		padding: 15vh 10px;
+	}
 }
 h1,h2,h3{
 
@@ -43,7 +49,7 @@ h1,h2,h3{
 	color: #79001a;
 }
 h1{
-	font-size: 15vw;
+	font-size: 19vw;
 }
 h2 {
     font-size: 5.5vw;
@@ -90,19 +96,17 @@ a:hover {
 	}
 }
 
-/* h1 {
-	margin-top: 5rem;
-	margin-bottom: 0rem;
-	color: #6100FF;
-	font-weight: 500;
-	font-size: 4.666666rem;
-} */
+
 
 @media screen and (max-width: 400px) {
 	h1 {
 		margin-bottom: 0.5rem;
-		font-size: 2.6rem;
+		font-size: 4.8rem;
 		line-height: 100%;
+	}
+	h2 {
+		font-size: 2.1rem;
+		line-height: 80%;
 	}
 }
 
@@ -157,6 +161,7 @@ a:hover {
 	font-weight: 500;
 	color: #ed264b;
 	font-size: 4rem;
+	/* line-height: 50%; */
 }
 
 .screen span {
@@ -183,12 +188,13 @@ a:hover {
 
 	.screen h2 {
 		font-size: 2.7rem;
-		line-height: 100%;
+		line-height: 80%;
 	}
 
 	.screen p {
 		font-size: 1rem;
 		line-height: 125%;
+		letter-spacing: -0.05px;
 	}
 
 	.screen a {
