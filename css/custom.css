@@ -30,7 +30,6 @@ body {
 
 body {
 	background-color:#ed264b;
-
 	color: #5b0216;
 	letter-spacing: 0;
 	font-family: 'FamiljenGrotesk-Variable';
@@ -49,11 +48,12 @@ h1,h2,h3{
 	color: #79001a;
 }
 h1{
-	font-size: 19vw;
+	font-size: 200px;
+  line-height: 70%;
 }
 h2 {
-    font-size: 5.5vw;
-    line-height: 4.5vw;
+    font-size: 80px;
+    line-height: 59px;
     font-weight: 400;
 		color: #d7f0d3;
 		letter-spacing: 0.05px;
