@@ -53,7 +53,6 @@ h2 {
     font-size: 80px;
     line-height: 59px;
     font-weight: 400;
-		color: #5b0216;
 		letter-spacing: 0.05px;
 }
 p,
@@ -171,7 +170,7 @@ hr{
 	padding-bottom: .9rem;
 	border-bottom: 3px solid #5b0216;
 	font-weight: 500;
-	color: #f62a5cs;
+	color: #f62a5c;
 	font-size: 4rem;
 	/* line-height: 50%; */
 }
