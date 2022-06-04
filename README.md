@@ -20,4 +20,4 @@ Stefania Papa
 Salvo Pitingaro
 Alessandro Ricciardo
 Arianna Terenzi
-Michele Tunzi
+Michele Tunzi.
