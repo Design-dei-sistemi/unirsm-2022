@@ -88,12 +88,14 @@ a:hover {
 
 .video-wrapper h1{
   	transform: rotate(-2deg);
+    position: relative;
+    top: -10vh;
 }
 #main h2{
 	transform: rotate(-2deg);
   position: relative;
-  top: -40vh;
-  margin-bottom: -30vh;
+  top: -50vh;
+  margin-bottom: -40vh;
 }
 @media screen and (max-width: 400px) {
 	.container {
