@@ -138,14 +138,20 @@ hr{
 }
 .screen:nth-of-type(1){
 		transform: rotate(-3deg);
+    transition: all .5s;
 }
+
 .screen:nth-of-type(2){
 		transform: rotate(3deg);
+      transition: all .5s;
 }
 .screen:nth-of-type(3){
 		transform: rotate(-3deg);
+      transition: all .5s;
 }
-
+.screen:hover{
+		transform: rotate(0deg);
+}
 .screen h2,
 .screen p {
 	margin: 0;
