@@ -546,7 +546,7 @@ iframe[seamless] {
 #Grafico_tappe  .st1{fill:#FFFFFF;}
 #Grafico_tappe  .st2{font-family:'SoleSans';}
 #Grafico_tappe  .st3{font-size:25px;}
-#Grafico_tappe  .st4{font-size:18px;}
+#Grafico_tappe  .st4{font-size:22px;}
 #Grafico_tappe  .st5{fill-opacity:0.12;}
 #Grafico_tappe  .st6{fill-rule:evenodd;clip-rule:evenodd;fill:#EA352B;}
 #Grafico_tappe  .st7{fill-opacity:0.4;}
@@ -1028,7 +1028,7 @@ display: flex;
  .copertina_mobile {
    display: block;
    width: 100vw;
-   height: 100vh;
+   height: 60vh;
    display: inline-block;
  }
 
@@ -1387,7 +1387,7 @@ padding: 40px;
  .copertina_mobile {
    display: block;
    width: 100vw;
-   height: 20vh;
+   height: 70vh;
    display: inline-block;
  }
 
