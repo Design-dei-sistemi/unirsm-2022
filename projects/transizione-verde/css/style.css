@@ -519,6 +519,7 @@ iframe[seamless] {
 .juxtapose{
   width: 130%;
   height: 15%;
+  overflow: hidden;
 }
 
 #chart_percorso .st0{fill:#FFFFFF;fill-opacity:1;}
