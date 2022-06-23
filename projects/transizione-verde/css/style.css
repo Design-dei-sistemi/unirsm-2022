@@ -497,6 +497,9 @@ p {
   margin-bottom: 20px;
   font-family: 'SoleSans';
 }
+.notifica svg #Heading {
+  opacity: .2;
+}
 
 .testo_percorso {
   transition: all 0.2s;
@@ -1499,7 +1502,6 @@ overflow-x: hidden;
 overflow-y: hidden;
 /* background-color: #EA352B; */
 }
-
 
 /* .grafico-fonti{
 width: 110%;
