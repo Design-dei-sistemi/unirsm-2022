@@ -26,7 +26,10 @@ body {
  .copertina_mobile {
    display: none;
  }
-
+.autore{
+    font-family: 'sole_display';
+    opacity: .5;
+}
 .p_fonti{
 
   color: white;
